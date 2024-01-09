@@ -114,7 +114,8 @@ The same proportions apply to y_test, y_train, and y_val.
 2.3	CLASSIFICATION RESULTS AND MODEL SELECTION
 
 •	I used Support Vector Machines, K-Nearest Neighbors, Decision Tree, Linear Discriminant Analysis, Naive Bayes
-•	
+
+
 Support Vector Machines :
 
 ![image](https://github.com/aslikayalik/Machine-Learning-Project-About-Sounds/assets/96055823/e86cddb1-2b91-458c-8ec4-74f7a0cc399b)
